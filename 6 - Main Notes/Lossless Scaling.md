@@ -3,7 +3,7 @@
 
 Status: #seed 
 
-Tags: [[machine learning]] [[machine learning]] [[3 - Tags/algorithm|algorithm]]
+Tags: [[machine learning]]  [[3 - Tags/algorithm|algorithm]]
 
 # Losssless Scaling Basics
 

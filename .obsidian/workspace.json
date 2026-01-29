@@ -4,67 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "256db44a78c3fd27",
+        "id": "47190d6999e78688",
         "type": "tabs",
         "children": [
           {
-            "id": "3eeb225effc76f37",
+            "id": "68a281df9e246a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Lossless Scaling Basics.md",
+                "file": "1 - Rough Notes/MySQL Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lossless Scaling Basics"
+              "title": "MySQL Fundamentals"
             }
           },
           {
-            "id": "2161bd5dcf73cbc1",
+            "id": "791de90c20dfa914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/algorithm.md",
+                "file": "6 - Main Notes/Lossless Scaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algorithm"
+              "title": "Lossless Scaling"
             }
           },
           {
-            "id": "73d8c525803c97f7",
+            "id": "2a61339dda4059a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/algorithm.md",
+                "file": "3 - Tags/artificial intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algorithm"
+              "title": "artificial intelligence"
             }
           },
           {
-            "id": "07281960b73f6685",
+            "id": "1fb99a61f8786294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Pemrosesan dan Infrastruktur Data.md",
+                "file": "2 - Source Material/JavaScript/Glosarium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pemrosesan dan Infrastruktur Data"
+              "title": "Glosarium"
+            }
+          },
+          {
+            "id": "b100b2474a6d9368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/C Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C Language"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/LOGIKA & ALGORITMA PEMROGRAMAN.md",
+                "file": "1 - Rough Notes/MySQL Fundamentals.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LOGIKA & ALGORITMA PEMROGRAMAN"
+              "title": "Outgoing links from MySQL Fundamentals"
             }
           },
           {
@@ -176,21 +190,21 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Pemrosesan dan Infrastruktur Data.md",
-                "collapseAll": false,
+                "file": "1 - Rough Notes/MySQL Fundamentals.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pemrosesan dan Infrastruktur Data"
+              "title": "Backlinks for MySQL Fundamentals"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -208,22 +222,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "846a58a5fb4dab8c",
+  "active": "b100b2474a6d9368",
   "lastOpenFiles": [
-    "Untitled",
-    "6 - Main Notes/Untitled.base",
-    "1 - Rough Notes/Pemrosesan dan Infrastruktur Data.md",
-    "1 - Rough Notes/Data untuk AI.md",
-    "1 - Rough Notes/AI Workflow.md",
-    "1 - Rough Notes/Lossless Scaling Basics.md",
-    "6 - Main Notes/Lossless Scaling.md",
-    "Misc/dos-13fcddecfd74310a1949f61bb1cb185120240119171122.png",
+    "2 - Source Material/JavaScript/Glosarium.md",
+    "6 - Main Notes/C Language.md",
     "2 - Source Material/Logika & Algoritma Pemrograman.md",
+    "3 - Tags/javascript.md",
     "3 - Tags/artificial intelligence.md",
-    "1 - Rough Notes/Algorithm.md",
-    "3 - Tags/algorithm.md",
     "3 - Tags/machine learning.md",
+    "3 - Tags/database.md",
+    "6 - Main Notes/Lossless Scaling.md",
+    "2 - Source Material/JavaScript",
+    "6 - Main Notes/Tiba tiba JavaScript.md",
+    "6 - Main Notes/Trying to learn C because im still bad a coding.md",
+    "1 - Rough Notes/MySQL Fundamentals.md",
+    "1 - Rough Notes/Lossless Scaling Basics.md",
+    "3 - Tags/algorithm.md",
+    "1 - Rough Notes/Pemrosesan dan Infrastruktur Data.md",
     "3 - Tags/computer science.md",
+    "1 - Rough Notes/Data untuk AI.md",
+    "1 - Rough Notes/Algorithm.md",
+    "1 - Rough Notes/AI Workflow.md",
+    "6 - Main Notes/Untitled.base",
+    "Misc/dos-13fcddecfd74310a1949f61bb1cb185120240119171122.png",
     "Misc/dos-46ba7fae9b392b7bc2551bb2b7a1260d20240119171218.png",
     "Misc/Pasted image 20251106160100.png",
     "Misc/Pasted image 20251106155841.png",
@@ -243,8 +264,6 @@
     "4 - Indexes",
     "3 - Tags",
     "2 - Source Material",
-    "Rough Notes/Untitled.md",
-    "1 - Rough Notes",
-    "Welcome.md"
+    "1 - Rough Notes"
   ]
 }
