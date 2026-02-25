@@ -4,81 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "47190d6999e78688",
+        "id": "597088c584f00ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "68a281df9e246a7c",
+            "id": "c7fa83a83ec0f22a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/MySQL Fundamentals.md",
+                "file": "1 - Rough Notes/Cloud Computing and Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL Fundamentals"
+              "title": "Cloud Computing and Security"
             }
           },
           {
-            "id": "791de90c20dfa914",
+            "id": "1e99abe4b4c3e178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Lossless Scaling.md",
+                "file": "1 - Rough Notes/AI Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lossless Scaling"
+              "title": "AI Workflow"
             }
           },
           {
-            "id": "2a61339dda4059a8",
+            "id": "9d33e68e73ec37d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/artificial intelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "artificial intelligence"
-            }
-          },
-          {
-            "id": "1fb99a61f8786294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/JavaScript/Glosarium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glosarium"
-            }
-          },
-          {
-            "id": "b100b2474a6d9368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/C Language.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C Language"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223
   },
   "right": {
     "id": "fb9aaf5426b1ef2f",
@@ -176,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/MySQL Fundamentals.md",
+                "file": "1 - Rough Notes/Fault Tolerant System.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MySQL Fundamentals"
+              "title": "Outgoing links from Fault Tolerant System"
             }
           },
           {
@@ -222,48 +190,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b100b2474a6d9368",
+  "active": "9d33e68e73ec37d5",
   "lastOpenFiles": [
-    "2 - Source Material/JavaScript/Glosarium.md",
-    "6 - Main Notes/C Language.md",
-    "2 - Source Material/Logika & Algoritma Pemrograman.md",
-    "3 - Tags/javascript.md",
-    "3 - Tags/artificial intelligence.md",
-    "3 - Tags/machine learning.md",
+    "6 - Main Notes/Biosignal, Sinyal Bioelectric, Biopotensial.md",
+    "1 - Rough Notes/AI Workflow.md",
+    "6 - Main Notes/Semester-6/Biomedical-Signal-Processing-on-Embedded-System",
+    "6 - Main Notes/Untitled.base",
+    "6 - Main Notes/Semester-6/Cyber-Physical-System/Introduction to Cyber Physical System.md",
+    "1 - Rough Notes/Data untuk AI.md",
+    "1 - Rough Notes/MySQL Fundamentals.md",
+    "1 - Rough Notes/Pemrosesan dan Infrastruktur Data.md",
+    "1 - Rough Notes/Lossless Scaling Basics.md",
+    "1 - Rough Notes/Fault Tolerant System.md",
+    "5 - Templates/Rough Notes.md",
     "3 - Tags/database.md",
     "6 - Main Notes/Lossless Scaling.md",
-    "2 - Source Material/JavaScript",
-    "6 - Main Notes/Tiba tiba JavaScript.md",
-    "6 - Main Notes/Trying to learn C because im still bad a coding.md",
-    "1 - Rough Notes/MySQL Fundamentals.md",
-    "1 - Rough Notes/Lossless Scaling Basics.md",
-    "3 - Tags/algorithm.md",
-    "1 - Rough Notes/Pemrosesan dan Infrastruktur Data.md",
-    "3 - Tags/computer science.md",
-    "1 - Rough Notes/Data untuk AI.md",
+    "6 - Main Notes/Semester-6/Cyber-Physical-System",
+    "6 - Main Notes/Semester-6",
     "1 - Rough Notes/Algorithm.md",
-    "1 - Rough Notes/AI Workflow.md",
-    "6 - Main Notes/Untitled.base",
+    "1 - Rough Notes/Cloud Computing and Security.md",
+    "Misc/Pasted image 20260131151954.png",
+    "README.md",
+    "6 - Main Notes/C/Trying to learn C because im still bad a coding.md",
+    "2 - Source Material/JavaScript/Glosarium.md",
+    "3 - Tags/artificial intelligence.md",
+    "3 - Tags/algorithm.md",
+    "2 - Source Material/Logika & Algoritma Pemrograman.md",
+    "6 - Main Notes/C/C user input.md",
+    "6 - Main Notes/C/C Pointer.md",
+    "6 - Main Notes/C/C Language.md",
+    "5 - Templates/Full Note.md",
+    "3 - Tags/cloud computing.md",
+    "6 - Main Notes/C/Memory Address in C.md",
+    "Pasted image 20260131151718.png",
+    "Misc/Pasted image 20260131145151.png",
+    "Misc/Pasted image 20260131145027.png",
+    "Misc/Pasted image 20260131143743.png",
+    "6 - Main Notes/C",
+    "6 - Main Notes/Untitled 1.base",
+    "3 - Tags/javascript.md",
+    "2 - Source Material/JavaScript",
     "Misc/dos-13fcddecfd74310a1949f61bb1cb185120240119171122.png",
     "Misc/dos-46ba7fae9b392b7bc2551bb2b7a1260d20240119171218.png",
     "Misc/Pasted image 20251106160100.png",
     "Misc/Pasted image 20251106155841.png",
     "Misc/dos-f0b910e6ed7b0006e7498a2f8c96326f20240119170810.png",
-    "1 - Rough Notes/Pemahaman Dasar Internet.md",
-    "Misc/dos-995b2dfe375d3fb637f70e926b21bc1e20231217182606.jpeg",
     "Misc",
-    "5 - Templates/Full Note.md",
-    "5 - Templates/Rough Notes.md",
-    "README.md",
-    "6 - Main Notes/Untitled 1.md",
-    "6 - Main Notes/n.md",
-    "6 - Main Notes/Untitled 3.md",
-    "1 - Rough Notes/Hello.md",
     "6 - Main Notes",
-    "5 - Templates",
-    "4 - Indexes",
-    "3 - Tags",
-    "2 - Source Material",
-    "1 - Rough Notes"
+    "5 - Templates"
   ]
 }

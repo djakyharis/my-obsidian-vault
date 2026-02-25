@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Material Gruvbox"
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Andale Mono",
+  "textFontFamily": "Helvetica",
+  "monospaceFontFamily": "Andale Mono",
+  "translucency": true
 }
