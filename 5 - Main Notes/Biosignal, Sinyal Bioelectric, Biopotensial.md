@@ -1,8 +1,13 @@
-
-2026-02-18 07:16
+---
+date: 2026-02-18 07:16
+status: growing
+tags: [biomedical, course]
+source: Kuliah Biomedical Signal Processing
+---
 
 # Biosignal, Sinyal Bioelectric, Biopotensial
-Biosignal adalah signal yang dukur dan dianalisa untuk mengetahui informasi mengenai struktur dan fungsi dari sistem biologi.
+
+Biosignal adalah signal yang diukur dan dianalisa untuk mengetahui informasi mengenai struktur dan fungsi dari sistem biologi.
 
 ### Berdasarkan Bentuk Fisik
 1. Mekanik: Tekanan darah, Nystagmus (gerakan mata involuntary), Contractability (kemampuan kontraksi)
@@ -15,8 +20,11 @@ Biosignal adalah signal yang dukur dan dianalisa untuk mengetahui informasi meng
 Klasifikasi biosignal berdasarkan bentuk dimensi mencakup 1 dimensi seperti *time curve* contohnya sensor *PPG* yang mendeteksi *heart rate*, 2 dimensi selayaknya gambar foto yang bisa dimanfaatkan untuk mengetahui distribusi temperatur pada permukaan kulit, dan 3 dimensi yang bermodel konsentrasi atau volume, contohnya *hydrogen spin density* untuk mengukur *voxel* atau *volume pixel* pada posisi x,y,z pada pasien.
 
 ### Berdasarkan Tipe
-1. ACTIVE (*body generated*): signal yang dihasilkan oleh tubuh "*internal source*" dari biosignal electrical (sensor biopotensial) maupun non-electrical (temperatur, tekanan darah)
-2. PASSIVE (*body modulated*): dimana sinyal dihasilkan dari faktor luar tubuh/"*external source*" seperti X-ray di CT scan
-	
+1. **ACTIVE** (*body generated*): signal yang dihasilkan oleh tubuh "*internal source*" dari biosignal electrical (sensor biopotensial) maupun non-electrical (temperatur, tekanan darah)
+2. **PASSIVE** (*body modulated*): dimana sinyal dihasilkan dari faktor luar tubuh/"*external source*" seperti X-ray di CT scan
+
+## 🔗 Related
+- [[Introduction to Cyber Physical System]]
 
 ## References
+- 

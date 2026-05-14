@@ -1,9 +1,9 @@
-
-2025-01-05 23:17
-
-Status: #seed
-
-Tags: [[computer science]] [[algorithm]]
+---
+date: 2025-01-05 23:17
+status: growing
+tags: [computer-science, algorithm]
+source: Buku Logika & Algoritma Pemrograman
+---
 
 # Logika & Algoritma Pemrograman
 
@@ -19,22 +19,22 @@ Jadi dalam sistem komputer ini mempunyai 3 pemeran penting, yaitu Brainware (Use
 	Sistem Komputer sebagai media penyimpanan sekaligus melindungi data user. Semua data komputer disimpan di dalam hard drive yang memiliki beragam kapasitas memori.
 
 3. **Transfer Data**
-	Selain untuk meyimpan dan mengolah data, sistem komputer juga berfungsi untuk mentransfer data dari salah satu komputer ke komputer lainnya yang berfungsi untuk memudahkan pengolahan dadta hingga akhir.
+	Selain untuk menyimpan dan mengolah data, sistem komputer juga berfungsi untuk mentransfer data dari salah satu komputer ke komputer lainnya yang berfungsi untuk memudahkan pengolahan data hingga akhir.
 
 4. **Pengendalian**
-	Terakhir adalah pengendalian, dimana user dapat memasukan perintah ke komputer. Kemudian komputer melakukan tindakan sesuai dengan perintah yang dimasukan oleh user. 
+	Terakhir adalah pengendalian, dimana user dapat memasukan perintah ke komputer. Kemudian komputer melakukan tindakan sesuai dengan perintah yang dimasukan oleh user.
 	
 	Komputer harus bisa mengolah data. Dimana data mentah tidak bisa secara langsung diolah oleh komputer. Jadi, data harus di konversi sesuai format yang dapat dipahami oleh komputer (Software & Hardware).
 	
-	Dalam pengendalian ini, dalam berkomunikasi dengan dunia luar diperlukan suatu sistem antarmuka sebagai fungsi transfer data. Kemudian memerlukan pembawa data untuk memproses data. (Pembawa data yang dimaksud adalah media penyimpanan dengan representasinya).
+	Dalam pengendalian ini, dalam berkomunikasi dengan dunia luar diperlukan suatu sistem antarmuka sebagai fungsi transfer data. Kemudian memerlukan pembawa data untuk memproses data.
 	
-	Untuk berkomunikasi dengan dunia luar diperlukan antarmuka sebagai transfer data. Proses ini dilakukan oleh perangkat Input Output (I/O) yang disebut sebagai periferal.
-	
-	**Lanjutan dari GPT**
 	Antarmuka ini adalah mekanisme atau alat yang memungkinkan transfer data antara dua entitas, seperti komputer dengan perangkat lain dan dengan pengguna. Antarmuka ini berfungsi sebagai jembatan komunikasi, sekaligus mengatur bagaimana data ditransfer diterima atau dikirim.
 	
-	Jadi intinya, jika kokmkputer berkomunikasi dengan transfer data jarak jauh atau perangkat jarak jauh, kokmputer akan melakukan proses transfer data.
+	Proses transfer data ini dilakukan oleh perangkat Input Output (I/O) yang disebut sebagai periferal.
+
+## 🔗 Related
+- [[Algorithm]]
 
 ## References
-From the book LOGIKA & ALGORITMA PEMROGRAMAN
-ChatGPT
+- Buku LOGIKA & ALGORITMA PEMROGRAMAN
+- ChatGPT (tambahan penjelasan)

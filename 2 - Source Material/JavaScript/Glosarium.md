@@ -1,9 +1,9 @@
-
-2026-01-19 12:20
-
-Status: #seed
-
-Tags: 
+---
+date: 2026-01-19 12:20
+status: evergreen
+tags: [javascript, computer-science]
+source: Dicoding - Belajar Dasar Pemrograman JavaScript
+---
 
 # JavaScript Glosarium
 

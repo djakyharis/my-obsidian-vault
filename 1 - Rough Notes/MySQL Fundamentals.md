@@ -1,16 +1,22 @@
-[[computer science]] | [[database]]
-2026-01-13 00:02
+---
+date: 2026-01-13 00:02
+status: seed
+promote-to: 5 - Main Notes/CS/MySQL Fundamentals.md
+tags: [database, computer-science]
+---
 
 # MySQL Fundamentals
 
-*note*: note ini hasil dari roadmap untuk belajar SQL mainly MySQL (tapi mungkin bisa berubah) yang nantinya mungkin akan dirapihkan menjadi beberapa bagian.
+## 📝 Raw Capture
 
-What is MySQL? 
+*note*: note ini hasil dari roadmap untuk belajar SQL mainly MySQL yang nantinya akan dirapihkan menjadi beberapa bagian.
 
+Questions to answer:
+- What is MySQL?
+- Konsep RDBMS?
 
-Konsep RDBMS?
-
-
-
+## 🔗 Related
+- [[Algorithm]]
 
 ## References
+- 

@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "597088c584f00ee1",
+        "id": "84ca7abf1b588d0a",
         "type": "tabs",
         "children": [
           {
-            "id": "c7fa83a83ec0f22a",
+            "id": "dd523f545036191f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Cloud Computing and Security.md",
-                "mode": "source",
+                "file": "5 - Main Notes/C/C Programming MOC.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing and Security"
-            }
-          },
-          {
-            "id": "1e99abe4b4c3e178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/AI Workflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Workflow"
-            }
-          },
-          {
-            "id": "9d33e68e73ec37d5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "C Programming MOC"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:computer-science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,12 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Fault Tolerant System.md",
+                "file": "5 - Main Notes/C/C Programming MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fault Tolerant System"
+              "title": "Outgoing links from C Programming MOC"
             }
           },
           {
@@ -190,53 +166,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d33e68e73ec37d5",
+  "active": "dd523f545036191f",
   "lastOpenFiles": [
+    "5 - Main Notes/C/C user input.md",
+    "1 - Rough Notes/Fault Tolerant System.md",
+    "5 - Main Notes/CS/Algorithm.md",
+    "5 - Main Notes/CS/Logika & Algoritma Pemrograman.md",
+    "5 - Main Notes/Personal/Lossless Scaling Basics.md",
+    "5 - Main Notes/Biosignal, Sinyal Bioelectric, Biopotensial.md",
+    "5 - Main Notes/C/Memory Address in C.md",
+    "6 - MOC/Computer Science MOC.md",
+    "6 - MOC/Tag Taxonomy.md",
+    "6 - MOC/AI & Machine Learning MOC.md",
+    "5 - Main Notes/C/C Learning Roadmap.md",
+    "5 - Main Notes/Semester-6/Semester-6 MOC.md",
+    "5 - Main Notes/Semester-6/Biomedical-Signal-Processing-on-Embedded-System/Introduction to Biomedical Signal Processing.md",
+    "5 - Main Notes/C/C Pointer.md",
+    "5 - Main Notes/C/C Programming MOC.md",
+    "README.md",
+    "5 - Main Notes/AI/Data untuk AI.md",
+    "5 - Main Notes/AI/AI Workflow.md",
+    "5 - Main Notes/CS",
+    "5 - Main Notes/Personal",
+    "5 - Main Notes/AI",
+    "4 - Templates/Rough Notes.md",
+    "Untitled.md",
+    "4 - Templates/Full Note.md",
+    "1 - Rough Notes/Algorithm.md",
+    "1 - Rough Notes/Lossless Scaling Basics.md",
+    "3 - Tags/algorithm.md",
     "6 - Main Notes/Biosignal, Sinyal Bioelectric, Biopotensial.md",
     "1 - Rough Notes/AI Workflow.md",
     "6 - Main Notes/Semester-6/Biomedical-Signal-Processing-on-Embedded-System",
     "6 - Main Notes/Untitled.base",
-    "6 - Main Notes/Semester-6/Cyber-Physical-System/Introduction to Cyber Physical System.md",
-    "1 - Rough Notes/Data untuk AI.md",
-    "1 - Rough Notes/MySQL Fundamentals.md",
-    "1 - Rough Notes/Pemrosesan dan Infrastruktur Data.md",
-    "1 - Rough Notes/Lossless Scaling Basics.md",
-    "1 - Rough Notes/Fault Tolerant System.md",
-    "5 - Templates/Rough Notes.md",
-    "3 - Tags/database.md",
-    "6 - Main Notes/Lossless Scaling.md",
     "6 - Main Notes/Semester-6/Cyber-Physical-System",
     "6 - Main Notes/Semester-6",
-    "1 - Rough Notes/Algorithm.md",
-    "1 - Rough Notes/Cloud Computing and Security.md",
     "Misc/Pasted image 20260131151954.png",
-    "README.md",
-    "6 - Main Notes/C/Trying to learn C because im still bad a coding.md",
-    "2 - Source Material/JavaScript/Glosarium.md",
-    "3 - Tags/artificial intelligence.md",
-    "3 - Tags/algorithm.md",
-    "2 - Source Material/Logika & Algoritma Pemrograman.md",
-    "6 - Main Notes/C/C user input.md",
-    "6 - Main Notes/C/C Pointer.md",
-    "6 - Main Notes/C/C Language.md",
-    "5 - Templates/Full Note.md",
-    "3 - Tags/cloud computing.md",
-    "6 - Main Notes/C/Memory Address in C.md",
     "Pasted image 20260131151718.png",
     "Misc/Pasted image 20260131145151.png",
     "Misc/Pasted image 20260131145027.png",
     "Misc/Pasted image 20260131143743.png",
     "6 - Main Notes/C",
     "6 - Main Notes/Untitled 1.base",
-    "3 - Tags/javascript.md",
     "2 - Source Material/JavaScript",
     "Misc/dos-13fcddecfd74310a1949f61bb1cb185120240119171122.png",
     "Misc/dos-46ba7fae9b392b7bc2551bb2b7a1260d20240119171218.png",
     "Misc/Pasted image 20251106160100.png",
     "Misc/Pasted image 20251106155841.png",
-    "Misc/dos-f0b910e6ed7b0006e7498a2f8c96326f20240119170810.png",
-    "Misc",
-    "6 - Main Notes",
-    "5 - Templates"
+    "Misc/dos-f0b910e6ed7b0006e7498a2f8c96326f20240119170810.png"
   ]
 }
