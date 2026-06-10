@@ -21,7 +21,7 @@ When working with strings in `scanf()`, specify the size of the string/array and
 
 > **Rule of thumb**: Use `scanf()` for a **single word**, use `fgets()` for **multiple words**.
 
-## 🔗 Related
+## Related
 - [[C Learning Roadmap]]
 - [[C Language]]
 - [[C Pointer]]

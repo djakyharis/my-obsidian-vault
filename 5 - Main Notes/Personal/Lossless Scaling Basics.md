@@ -56,7 +56,7 @@ The scalers within LS can also be used at native resolution alongside in-game TA
 - **CPU**: 12th Gen Intel Core i9-12900H @ 2.50 GHz
 - **RAM**: 16.0 GB (15.7 GB usable)
 - **Storage**: 954 GB SSD NVMe Micron_2450_MTFDKBK1T0TFK
-- **GPU**: Intel Iris Xe Graphics (128 MB)
+- **GPU**: Intel Iris Xe Graphics (128 MB), NVIDIA RTX3050Ti
 - **OS**: 64-bit, x64-based
 
 ## Tips
@@ -64,7 +64,7 @@ The scalers within LS can also be used at native resolution alongside in-game TA
 - **GPU Headroom**: Aim for 70-80% GPU utilization before enabling frame generation
 - **Disable Interfering Overlays**: Turn off Steam, Discord overlays if you have issues
 
-## 🔗 Related
+## Related
 - 
 
 ## References

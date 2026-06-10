@@ -32,7 +32,7 @@ C Pointer                 ← Pointers and the * operator
 | [[Memory Address in C]] | RAM, `&` operator, `%p` | growing |
 | [[C Pointer]] | Pointer variables, `*` operator | growing |
 
-## 🔗 Related
+## Related
 - [[Algorithm]]
 
 ## References

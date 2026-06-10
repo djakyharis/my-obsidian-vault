@@ -7,7 +7,7 @@ tags: [computer-science, course]
 
 # Fault Tolerant System
 
-## 📝 Raw Capture
+## Raw Capture
 
 ### 3 Tipe System Fault
 1. Transient Fault

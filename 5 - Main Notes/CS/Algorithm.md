@@ -7,7 +7,7 @@ source: Khan Academy - Intro to Algorithms
 
 # Algorithm
 
-## 📝 Notes
+## Notes
 
 Algorithm adalah a set of steps to accomplish a task.
 

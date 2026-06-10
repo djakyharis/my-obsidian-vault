@@ -10,7 +10,7 @@ Index of all Computer Science notes in this vault.
 
 ---
 
-## 🧠 Foundations
+## Foundations
 
 | Note | Topic | Status |
 |---|---|---|
@@ -19,7 +19,7 @@ Index of all Computer Science notes in this vault.
 
 ---
 
-## 💾 C Programming
+## C Programming
 
 | Note | Topic | Status |
 |---|---|---|
@@ -32,7 +32,7 @@ Index of all Computer Science notes in this vault.
 
 ---
 
-## 🌐 JavaScript
+## JavaScript
 
 | Note | Topic | Status |
 |---|---|---|
@@ -40,7 +40,7 @@ Index of all Computer Science notes in this vault.
 
 ---
 
-## 🗄️ Database
+## Database
 
 | Note | Topic | Status |
 |---|---|---|
@@ -48,7 +48,7 @@ Index of all Computer Science notes in this vault.
 
 ---
 
-## 🔗 Related
+## Related
 - [[AI & Machine Learning MOC]]
 - [[Semester-6 MOC]]
 - [[Tag Taxonomy]]

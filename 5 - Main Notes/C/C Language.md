@@ -20,7 +20,7 @@ C made Unix **portable**, replacing Assembly as the primary systems language.
 
 > **TODO**: Add explanation of the compilation process (preprocessor → compiler → linker → executable)
 
-## 🔗 Related
+## Related
 - [[C Learning Roadmap]]
 - [[C user input]]
 - [[C Pointer]]

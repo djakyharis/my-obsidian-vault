@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/C/C Programming MOC.md",
+                "file": "5 - Main Notes/C/C Learning Roadmap.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Programming MOC"
+              "title": "C Learning Roadmap"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:computer-science",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,35 +167,37 @@
   },
   "active": "dd523f545036191f",
   "lastOpenFiles": [
-    "5 - Main Notes/C/C user input.md",
-    "1 - Rough Notes/Fault Tolerant System.md",
-    "5 - Main Notes/CS/Algorithm.md",
-    "5 - Main Notes/CS/Logika & Algoritma Pemrograman.md",
-    "5 - Main Notes/Personal/Lossless Scaling Basics.md",
-    "5 - Main Notes/Biosignal, Sinyal Bioelectric, Biopotensial.md",
     "5 - Main Notes/C/Memory Address in C.md",
+    "5 - Main Notes/C/C Learning Roadmap.md",
+    "1 - Rough Notes/Fault Tolerant System.md",
+    "_assets/Pasted image 20260131145027.png",
+    "_assets/Pasted image 20260131145151.png",
+    "_assets/Pasted image 20260131151954.png",
+    "1 - Rough Notes/MySQL Fundamentals.md",
+    "1 - Rough Notes/Cloud Computing and Security.md",
+    "2 - Source Material/JavaScript/Glosarium.md",
+    "5 - Main Notes/Semester-6/Semester-6 MOC.md",
+    "5 - Main Notes/Biosignal, Sinyal Bioelectric, Biopotensial.md",
+    "5 - Main Notes/Semester-6/Biomedical-Signal-Processing-on-Embedded-System/Introduction to Biomedical Signal Processing.md",
+    "5 - Main Notes/CS/Algorithm.md",
+    "5 - Main Notes/Personal/Lossless Scaling Basics.md",
+    "5 - Main Notes/C/C Language.md",
+    "5 - Main Notes/C/C Pointer.md",
+    "5 - Main Notes/C/C user input.md",
+    "5 - Main Notes/CS/Logika & Algoritma Pemrograman.md",
+    "5 - Main Notes/C/C Programming MOC.md",
+    "4 - Templates/Rough Notes.md",
+    "4 - Templates/Full Note.md",
+    "6 - MOC/AI & Machine Learning MOC.md",
     "6 - MOC/Computer Science MOC.md",
     "6 - MOC/Tag Taxonomy.md",
-    "6 - MOC/AI & Machine Learning MOC.md",
-    "5 - Main Notes/C/C Learning Roadmap.md",
-    "5 - Main Notes/Semester-6/Semester-6 MOC.md",
-    "5 - Main Notes/Semester-6/Biomedical-Signal-Processing-on-Embedded-System/Introduction to Biomedical Signal Processing.md",
-    "5 - Main Notes/C/C Pointer.md",
-    "5 - Main Notes/C/C Programming MOC.md",
     "README.md",
     "5 - Main Notes/AI/Data untuk AI.md",
     "5 - Main Notes/AI/AI Workflow.md",
     "5 - Main Notes/CS",
     "5 - Main Notes/Personal",
     "5 - Main Notes/AI",
-    "4 - Templates/Rough Notes.md",
     "Untitled.md",
-    "4 - Templates/Full Note.md",
-    "1 - Rough Notes/Algorithm.md",
-    "1 - Rough Notes/Lossless Scaling Basics.md",
-    "3 - Tags/algorithm.md",
-    "6 - Main Notes/Biosignal, Sinyal Bioelectric, Biopotensial.md",
-    "1 - Rough Notes/AI Workflow.md",
     "6 - Main Notes/Semester-6/Biomedical-Signal-Processing-on-Embedded-System",
     "6 - Main Notes/Untitled.base",
     "6 - Main Notes/Semester-6/Cyber-Physical-System",
@@ -210,9 +211,6 @@
     "6 - Main Notes/Untitled 1.base",
     "2 - Source Material/JavaScript",
     "Misc/dos-13fcddecfd74310a1949f61bb1cb185120240119171122.png",
-    "Misc/dos-46ba7fae9b392b7bc2551bb2b7a1260d20240119171218.png",
-    "Misc/Pasted image 20251106160100.png",
-    "Misc/Pasted image 20251106155841.png",
-    "Misc/dos-f0b910e6ed7b0006e7498a2f8c96326f20240119170810.png"
+    "Misc/dos-46ba7fae9b392b7bc2551bb2b7a1260d20240119171218.png"
   ]
 }

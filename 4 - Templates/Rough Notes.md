@@ -6,7 +6,7 @@ promote-to:
 
 # {{title}}
 
-## 📝 Raw Capture
+## Raw Capture
 
 
 ## References

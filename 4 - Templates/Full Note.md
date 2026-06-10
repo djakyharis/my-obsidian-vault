@@ -7,10 +7,10 @@ source:
 
 # {{title}}
 
-## 📝 Notes
+## Notes
 
 
-## 🔗 Related
+## Related
 - 
 
 ## References

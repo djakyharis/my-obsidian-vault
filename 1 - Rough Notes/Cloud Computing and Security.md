@@ -7,7 +7,7 @@ tags: [cloud-computing, course]
 
 # Cloud Computing and Security
 
-## 📝 Raw Capture
+## Raw Capture
 
 Reference(s):
 - Cloud Computing for Science and Engineering, Ian Foster and Dennis B. Gannon 2017

@@ -10,7 +10,7 @@ Index of all AI and Machine Learning notes in this vault.
 
 ---
 
-## 🔄 Workflow & Process
+## Workflow & Process
 
 | Note | Topic | Status |
 |---|---|---|
@@ -19,7 +19,7 @@ Index of all AI and Machine Learning notes in this vault.
 
 ---
 
-## 📊 Data
+## Data
 
 | Note | Topic | Status |
 |---|---|---|
@@ -27,7 +27,7 @@ Index of all AI and Machine Learning notes in this vault.
 
 ---
 
-## 🔗 Related
+## Related
 - [[Computer Science MOC]]
 - [[Semester-6 MOC]]
 - [[Tag Taxonomy]]

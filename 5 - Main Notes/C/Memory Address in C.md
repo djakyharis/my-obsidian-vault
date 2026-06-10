@@ -15,7 +15,7 @@ When we assign a value to a variable, it is stored at that memory address. To ac
 
 `&num` is often called a **"pointer"** — it stores the memory address of a variable as its value. To print pointer values, use the `%p` format specifier.
 
-## 🔗 Related
+## Related
 - [[C Pointer]]
 - [[C Learning Roadmap]]
 - [[C Language]]

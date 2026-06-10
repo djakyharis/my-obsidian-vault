@@ -40,7 +40,7 @@ A variable is a reusable container for a value. It behaves like the value it con
 ### Format Specifiers
 Special tokens that begin with `%`, followed by a character that specifies the data type and optional modifiers (width, precision, flags). They control how data is displayed or interpreted.
 
-## 🔗 Related
+## Related
 - [[C Language]]
 - [[C user input]]
 - [[C Pointer]]

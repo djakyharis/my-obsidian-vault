@@ -7,7 +7,7 @@ tags: [database, computer-science]
 
 # MySQL Fundamentals
 
-## 📝 Raw Capture
+## Raw Capture
 
 *note*: note ini hasil dari roadmap untuk belajar SQL mainly MySQL yang nantinya akan dirapihkan menjadi beberapa bagian.
 
